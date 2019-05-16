@@ -5,6 +5,7 @@ function New-Passwd {
 A simple script that generates a random, but human-pronounceable password.
 
 .DESCRIPTION
+Version: 2.0
 This script creates a random password based on human-pronounceable syllables.
 You can adjust the number of syllables, and when working with it interactively,
 includes the ability to generate multiple passwords. The generated password
